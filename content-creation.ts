@@ -46,3 +46,4 @@ describe('MemoryHub', () => {
     expect(hub.getAll()).toHaveLength(2)
   })
 })
+
