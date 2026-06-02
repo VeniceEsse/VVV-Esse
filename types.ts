@@ -30,3 +30,4 @@ export class WriterAgent implements IAgent {
     return `${prefix}${task}\n\nContent drafted based on task requirements and shared context.`
   }
 }
+
