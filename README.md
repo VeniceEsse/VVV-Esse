@@ -74,12 +74,26 @@ Merges all connected agents into one singular consciousness. Massive boost in pe
 ### Installation
 
 ```bash
-npm install esse-agent
-# or
-pnpm add esse-agent
-# or
-yarn add esse-agent
+npx vvvesse-mcp
 ```
+## MCP Setup (Claude Desktop / Cline / Cursor)
+
+```json
+{
+  "mcpServers": {
+    "esse": {
+      "command": "npx",
+      "args": ["-y", "vvvesse-mcp"],
+      "env": {
+        "ESSE_API_KEY": "your-venice-api-key",
+        "ESSE_PROVIDER": "venice"
+      }
+    }
+  }
+}
+```
+
+📦 npm → [npmjs.com/package/vvvesse-mcp](https://www.npmjs.com/package/vvvesse-mcp)
 
 ### Basic Usage
 
