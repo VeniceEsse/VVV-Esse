@@ -213,12 +213,6 @@ All custom agents must:
 
 ---
 
-## License
-
-MIT License © 2024 ESSE AI — see [LICENSE](LICENSE) for details.
-
----
-
 <div align="center">
   <sub>Built with ⚡ by <a href="https://x.com/VeniceEsse">@VeniceEsse</a> · <a href="http://vvvesse.xyz/">vvvesse.xyz</a></sub>
 </div>
